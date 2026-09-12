@@ -564,5 +564,5 @@ function build_result_detail(node, center_item) {
   };
 }
 
-export const display_name = '2D similarity map';
+export const display_name = '2D similarity map (Classic)';
 export const description = 'Arrange related results in a 2D map by semantic similarity.';
